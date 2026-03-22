@@ -1,0 +1,34 @@
+=== CFL PHASE 1 SUBMISSION VALUES ===
+Generated from: CFL_My_Forecasts_FY26Q2_v2.xlsx 
+Date: 2026-03-22 20:56:08.100303 
+
+Rank #1  | SWITCH Enterprise 48-Port UPOE                          | Forecast: 14,755
+Rank #2  | WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor  | Forecast: 80,354
+Rank #3  | SWITCH Core 25G/100G Fiber                              | Forecast: 6,702
+Rank #4  | SWITCH Enterprise 24-Port PoE+                          | Forecast: 9,174
+Rank #5  | WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor   | Forecast: 44,549
+Rank #6  | ROUTER Core Modular Chassis                             | Forecast: 883
+Rank #7  | SWITCH Enterprise 48-Port Fiber (Non-PoE)               | Forecast: 2,254
+Rank #8  | SWITCH Enterprise 25G Fiber                             | Forecast: 3,245
+Rank #9  | SWITCH Enterprise 24-Port UPOE                          | Forecast: 2,473
+Rank #10 | ROUTER Enterprise Edge 10G/40G                          | Forecast: 543
+Rank #11 | SECURITY FIREWALL Next-Generation_2                     | Forecast: 292
+Rank #12 | WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor  | Forecast: 4,855
+Rank #13 | SWITCH Core 100G Fiber                                  | Forecast: 759
+Rank #14 | WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor | Forecast: 7,852
+Rank #15 | SECURITY FIREWALL Next-Generation_1                     | Forecast: 317
+Rank #16 | SWITCH Enterprise 48-Port PoE+ with 10G Uplink          | Forecast: 2,345
+Rank #17 | SWITCH Enterprise 24-Port PoE+ Compact                  | Forecast: 1,513
+Rank #18 | SWITCH Data Center 25G/100G Leaf                        | Forecast: 1,067
+Rank #19 | WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor   | Forecast: 6,521
+Rank #20 | SWITCH Data Center 100G Spine                           | Forecast: 453
+Rank #21 | SWITCH Core 100G/400G Fiber                             | Forecast: 234
+Rank #22 | IP PHONE Enterprise Desk                                | Forecast: 15,363
+Rank #23 | ROUTER Branch 4-Port PoE                                | Forecast: 6,356
+Rank #24 | SWITCH Industrial 8-Port PoE                            | Forecast: 2,784
+Rank #25 | IP CONFERENCE PHONE                                     | Forecast: 4,228
+Rank #26 | SWITCH Industrial 8-Port PoE Compact                    | Forecast: 1,788
+Rank #27 | SWITCH Industrial Managed                               | Forecast: 2,572
+Rank #28 | ROUTER Edge Aggregation Fiber                           | Forecast: 771
+Rank #29 | SWITCH Industrial 24-Port PoE                           | Forecast: 523
+Rank #30 | ROUTER Branch 8-Port PoE                                | Forecast: 1,914
